@@ -1,15 +1,15 @@
 {
-  "name": "dream-team-14",
+  "name": "mimino",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://andriitomilov.github.io/dream-team-14",
+  "homepage": "https://DarkSwarp.github.io/mimino",
   "scripts": {
     "start": "parcel src/*.html",
     "build": "parcel build src/*.html --public-url /dream-team-14/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/andriitomilov/dream-team-14.git"
+    "url": "git+https://github.com/DarkSwarp/mimino.git"
   },
   "keywords": [],
   "author": "Alexander Repeta <alexander.repeta@gmail.com>",
